@@ -26,5 +26,4 @@ This is a Next.js project for the Maachao Delivery Partner application.
 - `src/hooks/` - Custom hooks
 - `src/lib/` - Utilities and helpers
 - `src/styles/` - Global and modular styles
-- `src/types/` - TypeScript types
 - `src/constants/` - App-wide constants 
